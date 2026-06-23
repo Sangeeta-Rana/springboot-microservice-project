@@ -1,0 +1,5 @@
+package com.welcomeRestapi.Controller;
+
+public class WelcomeRestApi {
+
+}

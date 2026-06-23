@@ -1,0 +1,5 @@
+package com.greetRestapi.client;
+
+public interface WelcomeFeignclientApi {
+
+}

@@ -1,0 +1,5 @@
+package com.greetRestapi.controller;
+
+public class GreetController {
+
+}

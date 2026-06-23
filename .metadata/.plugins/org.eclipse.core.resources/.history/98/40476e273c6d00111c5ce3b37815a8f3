@@ -1,0 +1,6 @@
+spring.application.name=Greet_Api
+
+management.endpoints.web.exposure.include=*
+
+spring.boot.admin.client.url=http://localhost:1111/
+server.port=9091
